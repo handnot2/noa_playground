@@ -10,7 +10,7 @@
       <section class="columns">
 
         <div  class="docs-content column col-9 col-sm-12"
-              style="padding: 7rem 1rem 5rem 1rem;">
+              style="padding: 4rem 1rem 1rem 1rem;">
           <np-code-grant-flow></np-code-grant-flow>
         </div>
       </section>
